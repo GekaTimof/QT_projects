@@ -1,0 +1,47 @@
+# Qt Creator specific
+*.pro.user
+*.pro.user.*
+*.qmake.cache
+*.qmake.stash
+
+# Build output
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.exe
+*.app
+*.pdb
+*.idb
+*.ilk
+*.i
+*.d
+
+# Qt specific
+*.moc
+*.qrc
+*.ui
+*.pro.user
+*.pro.user.*
+*.qmlc
+*.rcc
+*.ts
+
+# IDE specific
+.idea/
+.vscode/
+
+# User-specific files
+*.swp
+*.bak
+*.tmp
+
+# CMake specific
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
